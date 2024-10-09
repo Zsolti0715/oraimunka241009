@@ -8,7 +8,10 @@
 #import e11
 #import mintaW1
 #import mintFor
-import cGyakorlas
+#import cGyakorlas
+import veletlenek
+
+
 
 #e6.szog()
 #e7.negyzetgyok()
@@ -34,4 +37,11 @@ import cGyakorlas
 #cGyakorlas.kilenc()
 #cGyakorlas.kilenca
 #cGyakorlas.tizenegyedik()
-cGyakorlas.tizenketto()
+#cGyakorlas.tizenketto()
+#veletlenek.egyAlap()
+#veletlenek.egyAlapA()
+#veletlenek.egyalapB()
+#veletlenek.egyalapC()
+#veletlenek.kettoAlap()
+#veletlenek.kettoAlapA()
+veletlenek.kettoAlapB()
